@@ -1,2 +1,2 @@
-export const serverUrl="https://project-fair-backend-ccbi.onrender.com"
+export const serverUrl="https://projecctfairfullbackend-1.onrender.com"
 // "http://localhost:4000"
